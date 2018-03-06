@@ -30,9 +30,10 @@ You need to figure out the Kth character of Sgoogol, where googol = 10^100.
 
 ```
 Sample
-```
+
 input  : 4
 output : 0
 
 input  : 11
 output : 1
+```
